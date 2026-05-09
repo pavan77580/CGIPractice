@@ -17,7 +17,7 @@ public class BaseTest {
 				.header("Authorization", "Bearer " + TokenManager.getToken())
 				.header("Content-Type", "application/json");
 			System.out.println("pavan is a devotte of hanuman");	
-		
+		System.out.println("pavan is a good boy");
 		
 	}
 
