@@ -18,6 +18,7 @@ public class BaseTest {
 				.header("Content-Type", "application/json");
 			System.out.println("pavan is a devotte of hanuman");	
 		System.out.println("pavan is a good boy");
+		System.out.println("pavan is a hero");
 		
 	}
 
